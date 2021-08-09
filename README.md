@@ -14,7 +14,8 @@ Backend using PHP, database using PostgreSQL - PostGIS.
 ##
 URL: [https://peparing.geo.ugm.ac.id/](https://peparing.geo.ugm.ac.id/)
 
-Android App: [https://github.com/anshori/peparing/tree/master/android-apps/peparing.apk](https://github.com/anshori/peparing/tree/master/android-apps/peparing.apk)
+Android App: [Download peparing.apk](https://raw.githubusercontent.com/anshori/peparing/master/android-apps/peparing.apk) or
+<a id="raw-url" href="https://www.dropbox.com/s/xtu8d1bq0wfp9a5/peparing.apk?dl=0">Download from dropbox</a>
 
 ##
 >Source: [https://github.com/andyprasetya/leaflet-CRUD](https://github.com/andyprasetya/leaflet-CRUD)
